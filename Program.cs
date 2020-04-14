@@ -1,4 +1,5 @@
-﻿﻿using System;
+using System;
+using static System.Console;
 
 namespace CSharpOnline
 {
